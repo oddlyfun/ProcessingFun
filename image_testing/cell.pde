@@ -32,22 +32,21 @@ class cell
     
     if ( enabled == true )
     {
-      //fill(pixelColor);
-      //circle(pos.x,pos.y,5);
+      //fill(255);
+      //circle(pos.x,pos.y,10);
       add_forces();
       //check_bounds();
     }
   }
   
-  
-  void randomize_force()
+  PVector randomize_force()
   {
-    force = PVector.random2D();
+     return PVector.random2D();
   }
   
   void add_forces()
   {
-    
+
      float dist = PVector.dist(pos, new PVector(x,y));
      
      if ( dist > 1 ){
@@ -67,12 +66,18 @@ class cell
     PVector h2 =  vector_to(pos, mouseX, mouseY);
     h2.y *= -1;
     float mouse_dist = PVector.dist(pos, new PVector(mouseX,mouseY) );
-    mouse_dist = constrain(mouse_dist,0,mouse_ave);
-    mouse_dist = map(mouse_dist,0,mouse_ave,5,0);
     
-    force.add( h2.mult(mouse_dist) );
-    pos.add(force);
-     
+    if ( mouse_dist > 1 )
+    {
+      mouse_dist = constrain(mouse_dist,0,mouse_ave);
+      mouse_dist = map(mouse_dist,0,mouse_ave,5,0);
+  
+      //println((mouse_dist));
+      
+      force.add( h2.mult(mouse_dist) );
+    }
+    pos.add(force); 
+
     force.mult(0);
   }
   
