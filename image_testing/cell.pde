@@ -1,6 +1,6 @@
 class cell
 {
-  float x,y;
+  float x,y,mouse_ave;
   int pixelColor;
   boolean enabled,attached;
   PVector force, pos;
@@ -9,22 +9,33 @@ class cell
   {
      x = _x;
      y = _y;
+     mouse_ave = 50;
      pos = new PVector(_x,_y);
      pixelColor = col;
      enabled = false;
      attached = false;
-     force = PVector.random2D();
+     force = new PVector(0,0);
+  }
+  
+  void set_offset(float _x, float _y)
+  {
+    x = x + _x;
+    y = y + _y;
+    pos.x = x;
+    pos.y = y;
   }
   
   void display()
   {
-    stroke(this.pixelColor);
+    stroke(pixelColor);
     point(pos.x,pos.y);
     
     if ( enabled == true )
     {
-      pos.add(force);
-      check_bounds();
+      //fill(pixelColor);
+      //circle(pos.x,pos.y,5);
+      add_forces();
+      //check_bounds();
     }
   }
   
@@ -34,21 +45,37 @@ class cell
     force = PVector.random2D();
   }
   
-  void force_home()
+  void add_forces()
   {
     
-    //circle(pos.x,pos.y,15);
-
-    PVector a = new PVector(x,y);
-    PVector acc = PVector.sub(a,pos);
+     float dist = PVector.dist(pos, new PVector(x,y));
+     
+     if ( dist > 1 ){
+       PVector h1 = vector_to(new PVector(x,y), pos.x, pos.y);
+       h1.y *= -1;
+       
+       float acc = constrain(dist,0,500);
+       acc = map(acc,0,500,1,10);
+       //println(acc);
+       force.add( h1.mult(acc) );
+     } else
+     {
+       pos.x = x;
+       pos.y = y;
+     }
+     
+    PVector h2 =  vector_to(pos, mouseX, mouseY);
+    h2.y *= -1;
+    float mouse_dist = PVector.dist(pos, new PVector(mouseX,mouseY) );
+    mouse_dist = constrain(mouse_dist,0,mouse_ave);
+    mouse_dist = map(mouse_dist,0,mouse_ave,5,0);
     
-    force.add(acc);
-    //force.limit(0.5);
-    force.normalize();
-
-    
-    println(force);
+    force.add( h2.mult(mouse_dist) );
+    pos.add(force);
+     
+    force.mult(0);
   }
+  
   
   void check_bounds()
   {
