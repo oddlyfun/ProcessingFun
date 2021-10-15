@@ -49,6 +49,5 @@ void draw()
    for( int i = 0; i < cellList.size(); i++ )
    {
     cellList.get(i).display(); 
-    //cellList.get(i).force_home(); 
    }
 }
