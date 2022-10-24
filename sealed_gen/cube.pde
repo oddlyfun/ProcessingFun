@@ -523,6 +523,36 @@ class CUBE
     
   }
   
+  void dump_booster_list()
+  {
+    // take the pack list and format it to create custom packs to draft instead of relying on the website to generate packs
+    StringList cards = new StringList();
+    String s = "";
+    int boost_num = 24;
+    
+    //for ( int i = 0; i < this.pack_list.size(); i++ )
+    for ( int i = 0; i < boost_num; i++ )
+    {
+      PILE p = this.pack_list.get(i);
+      for ( int k = 0; k < p.size(); k++ )
+      {
+        //Card format ' 1  <CARDNAME> (<SET>) <COLLECTOR_NUM> '
+        String name = p.get_card(k);
+        
+        CARD c = get_card_object(name);
+        String set = c.Set();
+        String coln = c.Collector_Number(); 
+        
+        s = "1 "+name+" ("+set+") "+coln; 
+        cards.append(s);
+      }
+      cards.append("");
+    }
+    
+    println("Dumping data\\Boosters.txt");
+    saveStrings("data\\Boosters.txt",cards.array());
+    
+  }
   
   void refresh_cube()
   {

@@ -28,9 +28,9 @@ void setup()
   
   selectInput("Select a cube to process: ", "cubeSelected");
   
-  spooky.gen_packs_random();
+  //spooky.gen_packs_random();
   //spooky.gen_packs_color_balance();
-  //spooky.gen_packs_color_ten_seed();
+  spooky.gen_packs_color_ten_seed();
   //spooky.gen_packs_rarity(8*3);
   
   all_cards = loadJSONArray("default-cards.json");
@@ -61,7 +61,7 @@ void draw()
     {
       background(51);
       clear_screen = false;
-      text("<--, -->, 1-Dump, 2-Load, 3-Sealed, 4-Csv, 9-Refresh,   Pack # "+str(pack_num+1), 50 ,height - 64);
+      text("<--, -->, 1-Dump, 2-Load, 3-Sealed, 4-CSV, 5-DumpBoosterInfo,  9-Refresh,   Pack # "+str(pack_num+1), 50 ,height - 64);
     }
     
     // Cards that are double face throw a null pointer exception Because they are in a JSON array called card_faces [0] {0} image_uris  small
@@ -211,6 +211,11 @@ void keyPressed() {
   if ( key == '4' )
   {
     spooky.dump_csv();
+  }
+  
+  if ( key == '5' )
+  {
+    spooky.dump_booster_list();
   }
   
   if ( key == '9' )
