@@ -1,0 +1,50 @@
+String name = "spr_achilles_tang.png";
+PImage img;
+PImage gs_img;
+
+// goals 
+float sc_width = 256;
+float sc_height = 256;
+
+void setup() {
+
+  size(256, 256); 
+  background(150);
+  img = loadImage(name);
+  gs_img = loadImage(name);
+}
+
+void draw() {
+  
+  background(255);
+  
+  int factor = 0;
+  float check = 0;
+  
+  for ( int i = 1; i < 10; i++ )
+  {
+    check = img.width * i;
+    if ( check < width )
+    {
+      factor = i;
+    }
+  }
+  
+  float x = (width / 2 ) - ((img.width * factor) / 2);
+  float y = (height / 2 ) - ((img.height * factor) / 2);
+  
+  
+  img.resize(img.width * factor, img.height * factor);
+  gs_img.resize(gs_img.width * factor, gs_img.height * factor);
+  
+  
+  image(img,x,y);
+  saveFrame("spr_test.jpg");
+  
+  gs_img.filter(GRAY);
+  image(gs_img,x,y);
+  saveFrame("spr_test_GS.jpg");
+  
+  noLoop();
+
+}
