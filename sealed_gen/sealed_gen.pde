@@ -14,7 +14,6 @@ JSONArray all_cards;
 void setup()
 {
  size(1150,1000);
- //size(200,200);
  background(51);
  textSize(16);
  
@@ -26,7 +25,7 @@ void setup()
     
   spooky = new CUBE("data\\InnistradSpookyCube.csv");
   
-  selectInput("Select a cube to process: ", "cubeSelected");
+  //selectInput("Select a cube to process: ", "cubeSelected");
   
   //spooky.gen_packs_random();
   //spooky.gen_packs_color_balance();

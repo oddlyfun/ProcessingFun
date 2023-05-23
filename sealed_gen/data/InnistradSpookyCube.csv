@@ -1,4 +1,4 @@
-Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,Maybeboard,Image URL,Image Back URL,Tags,Notes,MTGO ID
+name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,maybeboard,image URL,image Back URL,tags,Notes,MTGO ID
 "Champion of the Parish",1,"Creature - Human Soldier",W,"isd","6",rare,w,Owned,Non-foil,false,,,"","",42828
 "Chaplain of Alms",1,"Creature - Human Cleric",W,"mid","13",uncommon,w,Owned,Non-foil,false,,,"","",92948
 "Hopeful Initiate",1,"Creature - Human Warlock",W,"vow","20",rare,w,Owned,Non-foil,false,,,"","",94328
@@ -33,18 +33,16 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Odric, Lunarch Marshal",4,"Legendary Creature - Human Soldier",W,"soi","31",rare,w,Owned,Non-foil,false,,,"","",59944
 "Restoration Angel",4,"Creature - Angel",W,"avr","32",rare,w,Owned,Non-foil,false,,,"","",44009
 "Slayer of the Wicked",4,"Creature - Human Soldier",W,"isd","32",uncommon,w,Owned,Non-foil,false,,,"","",42290
-"Angel of Flight Alabaster",5,"Creature - Angel",W,"isd","2",rare,w,Owned,Non-foil,false,,,"","",42526
 "Archangel Avacyn",5,"Legendary Creature - Angel",W,"soi","5",mythic,m,Owned,Non-foil,false,,,"","",59766
+"Bishop of Rebirth",5,"Creature - Vampire Cleric",W,"xln","5",rare,w,Owned,Non-foil,false,,,"","",65020
 "Geist-Honored Monk",5,"Creature - Human Monk",W,"isd","17",rare,w,Owned,Non-foil,false,,,"","",42558
-"Herald of War",5,"Creature - Angel",W,"avr","24",rare,w,Owned,Non-foil,false,,,"","",44081
+"Reaper of Flight Moonsilver",5,"Creature - Angel",W,"soi","36",uncommon,w,Owned,Non-foil,false,,,"","",60196
 "Sigardian Savior",5,"Creature - Angel",W,"mid","34",mythic,w,Owned,Non-foil,false,,,"","",92998
 "Breathkeeper Seraph",6,"Creature - Angel",W,"voc","31",rare,w,Owned,Non-foil,false,,,"","",
-"Angel of Glory's Rise",7,"Creature - Angel",W,"avr","1",rare,w,Owned,Non-foil,false,,,"","",43869
 "Bruna, the Fading Light",7,"Legendary Creature - Angel Horror",W,"emn","15a",rare,w,Owned,Non-foil,false,,,"","",61098
 "Adamant Will",2,"Instant",W,"vow","1",common,w,Owned,Non-foil,false,,,"","",94284
 "Blessed Alliance",2,"Instant",W,"emn","13",uncommon,w,Owned,Non-foil,false,,,"","",61088
 "Fateful Absence",2,"Instant",W,"mid","18",rare,w,Owned,Non-foil,false,,,"","",92962
-"Feeling of Dread",2,"Instant",W,"isd","14",common,m,Owned,Non-foil,false,,,"","",42644
 "Fierce Retribution",2,"Instant",W,"vow","13",common,w,Owned,Non-foil,false,,,"","",94314
 "Ray of Revelation",2,"Instant",W,"dka","17",common,White,Owned,Non-foil,false,,,"","",43257
 "Valorous Stance",2,"Instant",W,"vow","42",uncommon,w,Owned,Non-foil,false,,,"","",94382
@@ -54,81 +52,81 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Angelic Purge",3,"Sorcery",W,"soi","3",common,w,Owned,Non-foil,false,,,"","",59756
 "Collective Effort",3,"Sorcery",W,"emn","17",rare,w,Owned,Non-foil,false,,,"","",61094
 "Entreat the Angels",3,"Sorcery",W,"avr","20",mythic,w,Owned,Non-foil,false,,,"","",43805
-"Lingering Souls",3,"Sorcery",W,"dka","12",uncommon,m,Owned,Non-foil,false,,,"","",43359
 "Divine Reckoning",4,"Sorcery",W,"isd","10",rare,w,Owned,Non-foil,false,,,"","",42710
 "By Invitation Only",5,"Sorcery",W,"vow","5",rare,w,Owned,Non-foil,false,,,"","",94292
-"Candletrap",1,"Enchantment - Aura",W,"mid","9",common,w,Owned,Non-foil,false,,,"","",92940
+"Defy Death",5,"Sorcery",W,"avr","16",uncommon,w,Owned,Non-foil,false,,,"","",43845
 "Gryff's Boon",1,"Enchantment - Aura",W,"soi","20",uncommon,w,Owned,Non-foil,false,,,"","",60142
-"Bonds of Faith",2,"Enchantment - Aura",W,"isd","5",common,w,Owned,Non-foil,false,,,"","",42358
+"Vessel of Ephemera",2,"Enchantment",W,"soi","48",common,w,Owned,Non-foil,false,,,"","",60352
+"Borrowed Time",3,"Enchantment",W,"mid","6",uncommon,w,Owned,Non-foil,false,,,"","",92932
 "Bound by Moonsilver",3,"Enchantment - Aura",W,"soi","7",uncommon,w,Owned,Non-foil,false,,,"","",59974
 "Cathar's Call",3,"Enchantment - Aura",W,"mid","11",uncommon,w,Owned,Non-foil,false,,,"","",92944
 "Gift of Immortality",3,"Enchantment - Aura",W,"ths","14",rare,w,Owned,Non-foil,false,,,"","",50374
+"Sigarda's Imprisonment",3,"Enchantment - Aura",W,"vow","35",common,w,Owned,Non-foil,false,,,"","",94366
 "Wedding Announcement",3,"Enchantment",W,"vow","355",rare,w,Owned,Non-foil,false,,,"","",
 "Lantern Bearer",1,"Creature - Spirit",U,"vow","66",common,u,Owned,Non-foil,false,,,"","",94440
 "Mausoleum Wanderer",1,"Creature - Spirit",U,"emn","69",rare,u,Owned,Non-foil,false,,,"","",61138
 "Nephalia Smuggler",1,"Creature - Human Rogue",U,"avr","69",uncommon,u,Owned,Non-foil,false,,,"","",44079
 "Fogwalker",2,"Creature - Spirit",U,"emn","60",common,u,Owned,Non-foil,false,,,"","",61328
-"Jacob Hauken, Inspector",2,"Legendary Creature - Human Advisor",U,"vow","65",mythic,u,Owned,Non-foil,false,,,"","",94436
-"Mindshrieker",2,"Creature - Spirit Bird",U,"isd","67",rare,u,Owned,Non-foil,false,,,"","",42514
-"Mischievous Catgeist",2,"Creature - Cat Spirit",U,"vow","69",uncommon,u,Owned,Non-foil,false,,,"","",94450
-"Patchwork Crawler",2,"Creature - Zombie Horror",U,"vow","364",rare,u,Owned,Non-foil,false,,,"","",
+"Malevolent Hermit",2,"Creature - Human Wizard",U,"mid","61",rare,u,Owned,Non-foil,false,,,"","",93060
 "Rattlechains",2,"Creature - Spirit",U,"soi","81",rare,u,Owned,Non-foil,false,,,"","",59790
+"Shacklegeist",2,"Creature - Spirit",U,"m21","70",rare,u,Owned,Non-foil,false,,,"","",81367
 "Snapcaster Mage",2,"Creature - Human Wizard",U,"isd","78",rare,u,Owned,Non-foil,false,,,"","",42512
 "Spectral Adversary",2,"Creature - Spirit",U,"mid","77",mythic,u,Owned,Non-foil,false,,,"","",93100
+"Supreme Phantom",2,"Creature - Spirit",U,"m19","76",rare,u,Owned,Non-foil,false,,,"","",68313
 "Suspicious Stowaway",2,"Creature - Human Rogue Werewolf",U,"mid","80",rare,Blue,Owned,Non-foil,false,,,"","",93106
 "Thing in the Ice",2,"Creature - Horror",U,"soi","92",rare,u,Owned,Non-foil,false,,,"","",59868
 "Wharf Infiltrator",2,"Creature - Human Horror",U,"emn","80",rare,u,Owned,Non-foil,false,,,"","",61332
 "Cemetery Illuminator",3,"Creature - Spirit",U,"vow","50",mythic,u,Owned,Non-foil,false,,,"","",94404
 "Dreamshackle Geist",3,"Creature - Spirit",U,"vow","358",rare,u,Owned,Non-foil,false,,,"","",
 "Geralf, Visionary Stitcher",3,"Legendary Creature - Human Wizard",U,"vow","61",rare,u,Owned,Non-foil,false,,,"","",94426
+"Niblis of the Breath",3,"Creature - Spirit",U,"dka","44",uncommon,u,Owned,Non-foil,false,,,"","",43179
 "Overwhelmed Archivist",3,"Creature - Human Wizard",U,"mid","68",uncommon,u,Owned,Non-foil,false,,,"","",93078
 "Patrician Geist",3,"Creature - Spirit Knight",U,"mid","69",rare,u,Owned,Non-foil,false,,,"","",93082
 "Poppet Stitcher",3,"Creature - Human Wizard",U,"mid","339",mythic,u,Owned,Non-foil,false,,,"","",
 "Stitched Assistant",3,"Creature - Zombie",U,"vow","81",common,u,Owned,Non-foil,false,,,"","",94478
-"Tandem Lookout",3,"Creature - Human Scout",U,"avr","80",uncommon,u,Owned,Non-foil,false,,,"","",44131
 "Cruel Witness",4,"Creature - Bird Horror",U,"vow","55",common,u,Owned,Non-foil,false,,,"","",94414
+"Donal, Herald of Wings",4,"Legendary Creature - Human Wizard",U,"voc","3",mythic,u,Owned,Non-foil,false,,,"","",
 "Drunau Corpse Trawler",4,"Creature - Zombie",U,"soi","57",uncommon,m,Owned,Non-foil,false,,,"","",60258
-"Dungeon Geists",4,"Creature - Spirit",U,"cma","39",rare,u,Owned,Non-foil,false,,,"","",
+"Dungeon Geists",4,"Creature - Spirit",U,"dka","36",rare,u,Owned,Non-foil,false,,,"","",43285
 "Gutter Skulker",4,"Creature - Spirit",U,"vow","62",uncommon,u,Owned,Non-foil,false,,,"","",94428
 "Havengul Runebinder",4,"Creature - Human Wizard",U,"dka","39",rare,u,Owned,Non-foil,false,,,"","",43287
 "Niblis of Frost",4,"Creature - Spirit",U,"emn","72",rare,u,Owned,Non-foil,false,,,"","",61336
 "Organ Hoarder",4,"Creature - Zombie",U,"mid","66",common,u,Owned,Non-foil,false,,,"","",93074
 "Overcharged Amalgam",4,"Creature - Zombie Horror",U,"vow","363",rare,u,Owned,Non-foil,false,,,"","",
-"Repository Skaab",4,"Creature - Zombie",U,"vow","73",common,u,Owned,Non-foil,false,,,"","",94460
 "Tower Geist",4,"Creature - Spirit",U,"dka","53",uncommon,u,Owned,Non-foil,false,,,"","",43319
+"Undead Alchemist",,"Creature - Zombie",,"isd","84",rare,u,Owned,,false,,,"","",42698
 "Whispering Wizard",4,"Creature - Human Wizard",U,"vow","88",uncommon,u,Owned,Non-foil,false,,,"","",94492
-"Diver Skaab",5,"Creature - Zombie",U,"vow","56",uncommon,u,Owned,Non-foil,false,,,"","",94416
 "Docent of Perfection",5,"Creature - Insect Horror",U,"emn","56",rare,u,Owned,Non-foil,false,,,"","",61132
+"Geralf's Masterpiece",5,"Creature - Zombie Horror",U,"soi","65",mythic,u,Owned,Non-foil,false,,,"","",60294
 "Sludge Monster",5,"Creature - Horror",U,"mid","340",rare,u,Owned,Non-foil,false,,,"","",
-"Deadeye Navigator",6,"Creature - Spirit",U,"mm3","36",rare,u,Owned,Non-foil,false,,,"","",63321
 "Consider",1,"Instant",U,"mid","44",common,u,Owned,Non-foil,false,,,"","",93020
-"Fading Hope",1,"Instant",U,"mid","51",uncommon,u,Owned,Non-foil,false,,,"","",93038
 "Otherworldly Gaze",1,"Instant",U,"mid","67",common,u,Owned,Non-foil,false,,,"","",93076
+"Pongify",1,"Instant",U,"2xm","62",uncommon,u,Owned,Non-foil,false,,,"","",82158
 "Syncopate",1,"Instant",U,"vow","83",common,u,Owned,Non-foil,false,,,"","",94482
-"Thought Scour",1,"Instant",U,"dka","52",common,u,Owned,Non-foil,false,,,"","",43399
-"Wash Away",1,"Instant",U,"vow","87",uncommon,u,Owned,Non-foil,false,,,"","",94490
-"Compelling Deterrence",2,"Instant",U,"soi","52",uncommon,u,Owned,Non-foil,false,,,"","",60118
-"Memory's Journey",2,"Instant",U,"isd","66",uncommon,m,Owned,Non-foil,false,,,"","",42808
-"Think Twice",2,"Instant",U,"isd","83",common,u,Owned,Non-foil,false,,,"","",42534
-"Unsubstantiate",2,"Instant",U,"emn","79",uncommon,u,Owned,Non-foil,false,,,"","",61136
+"Turn Aside",1,"Instant",U,"emn","78",common,u,Owned,Non-foil,false,,,"","",61356
+"Counterspell",2,"Instant",U,"tmp","57",common,u,Owned,Non-foil,false,,,"","",9631
+"Echoing Truth",2,"Instant",U,"dmc","109",common,u,Owned,Non-foil,false,,,"","",103104
+"Memory's Journey",2,"Instant",U,"isd","66",uncommon,m,Owned,Non-foil,false,,,"cut","",42808
+"Peel from Reality",2,"Instant",U,"avr","71",common,u,Owned,Non-foil,false,,,"","",44059
+"Remove Soul",2,"Instant",U,"10e","100",common,u,Owned,Non-foil,false,,,"","",27420
 "Catalog",3,"Instant",U,"soi","51",common,u,Owned,Non-foil,false,,,"","",59796
 "Chill of the Grave",3,"Instant",U,"vow","51",common,u,Owned,Non-foil,false,,,"","",94406
-"Convolute",3,"Instant",U,"emn","53",common,u,Owned,Non-foil,false,,,"","",61106
 "Dissipate",3,"Instant",U,"mid","49",uncommon,u,Owned,Non-foil,false,,,"","",93034
-"Flip the Switch",3,"Instant",U,"mid","54",common,u,Owned,Non-foil,false,,,"","",93044
-"Syphon Essence",3,"Instant",U,"vow","84",common,u,Owned,Non-foil,false,,,"","",94484
 "Thirst for Discovery",3,"Instant",U,"vow","85",uncommon,u,Owned,Non-foil,false,,,"","",94486
 "Memory Deluge",4,"Instant",U,"mid","62",rare,u,Owned,Non-foil,false,,,"","",93064
+"Hard Evidence",1,"Sorcery",U,"mh2","46",common,u,Owned,Non-foil,false,,,"","",90461
 "Increasing Confusion",1,"Sorcery",U,"dka","41",rare,u,Owned,Non-foil,false,,,"","",43431
 "Silent Departure",1,"Sorcery",U,"isd","75",common,u,Owned,Non-foil,false,,,"","",42284
-"Press for Answers",2,"Sorcery",U,"soi","80",common,u,Owned,Non-foil,false,,,"","",60166
-"Runic Repetition",3,"Sorcery",U,"isd","72",uncommon,u,Owned,Non-foil,false,,,"","",42500
+"Scour All Possibilities",2,"Sorcery",U,"mh1","67",common,u,Owned,Non-foil,false,,,"","",72506
+"Runic Repetition",3,"Sorcery",U,"isd","72",uncommon,u,Owned,Non-foil,false,,,"cut","",42500
 "Witness the Future",3,"Sorcery",U,"vow","90",uncommon,u,Owned,Non-foil,false,,,"","",94496
-"Consuming Tide",4,"Sorcery",U,"vow","53",rare,u,Owned,Non-foil,false,,,"","",94410
-"Grasp of Phantoms",4,"Sorcery",U,"isd","58",uncommon,u,Owned,Non-foil,false,,,"","",42672
+"Consuming Tide",4,"Sorcery",U,"vow","53",rare,u,Owned,Foil,false,,,"","",94410
 "Into the Void",4,"Sorcery",U,"avr","62",uncommon,u,Owned,Non-foil,false,,,"","",44253
-"Mystic Retrieval",4,"Sorcery",U,"dka","42",uncommon,m,Owned,Non-foil,false,,,"","",43335
+"Startled Awake",4,"Sorcery",U,"soi","88",mythic,u,Owned,Non-foil,false,,,"","",60014
 "Devastation Tide",5,"Sorcery",U,"avr","48",rare,u,Owned,Non-foil,false,,,"","",44223
+"Rise from the Tides",6,"Sorcery",U,"soi","83",uncommon,u,Owned,Non-foil,false,,,"","",59824
+"Imprisoned in the Moon",3,"Enchantment - Aura",U,"emn","65",rare,u,Owned,Non-foil,false,,,"","",61116
+"Breath of the Sleepless",4,"Enchantment",U,"voc","11",rare,u,Owned,Non-foil,false,,,"","",
 "Champion of the Perished",1,"Creature - Zombie",B,"mid","91",rare,b,Owned,Non-foil,false,,,"","",93132
 "Concealing Curtains",1,"Creature - Wall",B,"vow","367",rare,b,Owned,Foil,false,,,"","",
 "Cryptbreaker",1,"Creature - Zombie",B,"emn","86",rare,b,Owned,Non-foil,false,,,"","",61372
@@ -139,6 +137,7 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Doomed Dissenter",2,"Creature - Human",B,"vow","106",common,b,Owned,Non-foil,false,,,"","",94536
 "Jadar, Ghoulcaller of Nephalia",2,"Legendary Creature - Human Wizard",B,"mid","108",rare,b,Owned,Non-foil,false,,,"","",93176
 "Relentless Dead",2,"Creature - Zombie",B,"soi","131",mythic,b,Owned,Non-foil,false,,,"","Expensive",60018
+"Restless Bloodseeker",2,"Creature - Vampire",B,"vow","128",uncommon,b,Owned,Non-foil,false,,,"","",94586
 "Slaughter Specialist",2,"Creature - Vampire Warrior",B,"mid","122",rare,b,Owned,Non-foil,false,,,"","",93208
 "Tainted Adversary",2,"Creature - Zombie",B,"mid","124",mythic,b,Owned,Non-foil,false,,,"","",93212
 "Undead Butler",2,"Creature - Zombie",B,"vow","133",uncommon,b,Owned,Non-foil,false,,,"","",94598
@@ -155,7 +154,6 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Morbid Opportunist",3,"Creature - Human Rogue",B,"mid","113",uncommon,b,Owned,Non-foil,false,,,"","",93188
 "Silversmote Ghoul",3,"Creature - Zombie Vampire",B,"m21","122",uncommon,Black,Owned,Non-foil,false,,,"","",81471
 "Unbreathing Horde",3,"Creature - Zombie",B,"isd","121",rare,b,Owned,Non-foil,false,,,"","",42556
-"Vito, Thorn of the Dusk Rose",3,"Legendary Creature - Vampire Cleric",B,"m21","127",rare,b,Owned,Non-foil,false,,,"","",81481
 "Accursed Witch",4,"Creature - Human Shaman",B,"soi","97",uncommon,b,Owned,Non-foil,false,,,"","",60370
 "Bloodline Keeper",4,"Creature - Vampire",B,"isd","90",rare,b,Owned,Non-foil,false,,,"","",42466
 "Diregraf Scavenger",4,"Creature - Zombie Bear",B,"vow","105",common,b,Owned,Non-foil,false,,,"","",94534
@@ -164,28 +162,27 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Bloodgift Demon",5,"Creature - Demon",B,"isd","89",rare,b,Owned,Non-foil,false,,,"","",42786
 "Rot-Tide Gargantua",5,"Creature - Zombie Kraken",B,"vow","129",common,b,Owned,Non-foil,false,,,"","",94590
 "Voldaren Pariah",5,"Creature - Vampire Horror",B,"emn","111",rare,b,Owned,Non-foil,false,,,"","",61396
-"Cemetery Desecrator",6,"Creature - Zombie",B,"vow","100",mythic,b,Owned,Non-foil,false,,,"","",94520
 "Mikaeus, the Unhallowed",6,"Legendary Creature - Zombie Cleric",B,"sld","490",mythic,b,Owned,Non-foil,false,,,"","",
 "Soul of Innistrad",6,"Creature - Avatar",B,"m15","115",mythic,b,Owned,Non-foil,false,,,"","",53758
 "Death Wind",1,"Instant",B,"avr","93",common,b,Owned,Non-foil,false,,,"","",44137
 "Tragic Slip",1,"Instant",B,"dka","76",common,b,Owned,Non-foil,false,,,"","",43189
-"Undying Evil",1,"Instant",B,"dka","77",common,b,Owned,Non-foil,false,,,"","",43393
 "Infernal Grasp",2,"Instant",B,"mid","107",uncommon,b,Owned,Non-foil,false,,,"","",93174
 "Olivia's Midnight Ambush",2,"Instant",B,"mid","118",common,b,Owned,Non-foil,false,,,"","",93198
 "Blood Pact",3,"Instant",B,"mid","88",common,b,Owned,Non-foil,false,,,"","",93126
 "Bloodline Culling",3,"Instant",B,"mid","89",rare,b,Owned,Non-foil,false,,,"","",93128
 "Murder",3,"Instant",B,"emn","97",uncommon,b,Owned,Non-foil,false,,,"","",61388
 "Bleed Dry",4,"Instant",B,"vow","94",common,b,Owned,Non-foil,false,,,"","",94504
-"Crawl from the Cellar",1,"Sorcery",B,"mid","93",common,b,Owned,Non-foil,false,,,"","",93138
 "Eaten Alive",1,"Sorcery",B,"mid","99",common,b,Owned,Non-foil,false,,,"","",93152
 "Killing Wave",1,"Sorcery",B,"avr","111",rare,b,Owned,Non-foil,false,,,"","",44109
 "Collective Brutality",2,"Sorcery",B,"emn","85",rare,b,Owned,Non-foil,false,,,"","",61144
+"Exhume",2,"Sorcery",B,"jmp","230",uncommon,b,Owned,Non-foil,false,,,"","",
 "Path of Peril",3,"Sorcery",B,"vow","373",rare,Black,Owned,Foil,false,,,"","",
 "Pointed Discussion",3,"Sorcery",B,"vow","126",common,b,Owned,Non-foil,false,,,"","",94580
+"Blood for Bones",4,"Sorcery",B,"m20","89",uncommon,b,Owned,Non-foil,false,,,"","",73077
+"Dread Return",4,"Sorcery",B,"mb1","636",uncommon,b,Owned,Non-foil,false,,,"","",
 "Edgar's Awakening",5,"Sorcery",B,"vow","110",uncommon,b,Owned,Non-foil,false,,,"","",94544
 "From Under the Floorboards",5,"Sorcery",B,"soi","111",rare,b,Owned,Non-foil,false,,,"","",60092
 "Rise from the Grave",5,"Sorcery",B,"emn","102",uncommon,b,Owned,Non-foil,false,,,"","",61178
-"Army of the Damned",8,"Sorcery",B,"isd","87",mythic,b,Owned,Non-foil,false,,,"","",42520
 "Blood Fountain",1,"Artifact",B,"vow","95",common,b,Owned,Non-foil,false,,,"","",94506
 "Mask of Griselbrand",3,"Legendary Artifact - Equipment",B,"mid","111",rare,b,Owned,Non-foil,false,,,"","",93184
 "Gift of Fangs",1,"Enchantment - Aura",B,"vow","113",common,b,Owned,Non-foil,false,,,"","",94550
@@ -229,6 +226,7 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Volatile Arsonist",5,"Creature - Human Werewolf",R,"vow","181",mythic,r,Owned,Non-foil,false,,,"","",94706
 "Charmbreaker Devils",6,"Creature - Devil",R,"isd","134",rare,r,Owned,Non-foil,false,,,"","",42510
 "Flayer of the Hatebound",6,"Creature - Devil",R,"dka","89",rare,r,Owned,Non-foil,false,,,"","",43425
+"Olivia's Attendants",6,"Creature - Vampire",R,"vow","307",rare,r,Owned,Non-foil,false,,,"","",
 "Bedlam Reveler",8,"Creature - Devil Horror",R,"emn","118",rare,r,Owned,Non-foil,false,,,"","",61224
 "Lightning Axe",1,"Instant",R,"soi","170",uncommon,r,Owned,Non-foil,false,,,"","",59900
 "Play with Fire",1,"Instant",R,"mid","154",uncommon,r,Owned,Non-foil,false,,,"","",93280
@@ -240,10 +238,9 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Electric Revelation",3,"Instant",R,"mid","135",common,r,Owned,Non-foil,false,,,"","",93236
 "Fiery Temper",3,"Instant",R,"soi","156",common,r,Owned,Non-foil,false,,,"","",59934
 "Rending Flame",3,"Instant",R,"vow","175",uncommon,r,Owned,Non-foil,false,,,"","",94694
-"Rush of Blood",3,"Instant",R,"avr","154",uncommon,r,Owned,Non-foil,false,,,"","",44111
 "Savage Alliance",3,"Instant",R,"emn","140",uncommon,r,Owned,Non-foil,false,,,"","",61426
 "Vampires' Vengeance",3,"Instant",R,"vow","180",uncommon,r,Owned,Non-foil,false,,,"","",94704
-"Aggravate",5,"Instant",R,"avr","125",uncommon,r,Owned,Non-foil,false,,,"","",44211
+"Inner Struggle",4,"Instant",R,"soi","167",uncommon,r,Owned,Non-foil,false,,,"","",60232
 "Thunderous Wrath",6,"Instant",R,"avr","160",uncommon,r,Owned,Non-foil,false,,,"","",43859
 "Bonfire of the Damned",1,"Sorcery",R,"avr","129",mythic,r,Owned,Non-foil,false,,,"","",44191
 "Devil's Play",1,"Sorcery",R,"isd","140",rare,r,Owned,Non-foil,false,,,"","",42818
@@ -252,13 +249,12 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Nightbird's Clutches",2,"Sorcery",R,"isd","154",common,r,Owned,Non-foil,false,,,"","",42306
 "Bloody Betrayal",3,"Sorcery",R,"vow","147",common,r,Owned,Non-foil,false,,,"","",94632
 "Collective Defiance",3,"Sorcery",R,"emn","123",rare,r,Owned,Non-foil,false,,,"","",61424
-"Shreds of Sanity",3,"Sorcery",R,"emn","141",uncommon,r,Owned,Non-foil,false,,,"","",61196
-"Wrack with Madness",4,"Sorcery",R,"dka","107",common,r,Owned,Non-foil,false,,,"","",43207
 "Alchemist's Greeting",5,"Sorcery",R,"emn","116",common,r,Owned,Non-foil,false,,,"","",61194
 "Burn at the Stake",5,"Sorcery",R,"avr","130",rare,r,Owned,Non-foil,false,,,"","",44203
 "Burn Down the House",5,"Sorcery",R,"mid","131",rare,r,Owned,Non-foil,false,,,"","",93228
 "Seize the Storm",5,"Sorcery",R,"mid","158",uncommon,r,Owned,Non-foil,false,,,"","",93290
-"Into the Maw of Hell",6,"Sorcery",R,"isd","150",uncommon,r,Owned,Foil,false,,,"","",42278
+"Blasphemous Act",9,"Sorcery",R,"isd","130",rare,r,Owned,Non-foil,false,,,"","",42410
+"Arterial Alchemy",3,"Enchantment",R,"voc","23",rare,r,Owned,Non-foil,false,,,"","",
 "Ascendant Packleader",1,"Creature - Wolf",G,"vow","186",rare,g,Owned,Non-foil,false,,,"","",94722
 "Deathbonnet Sprout",1,"Creature - Fungus",G,"mid","181",uncommon,g,Owned,Non-foil,false,,,"","",93348
 "Ulvenwald Tracker",1,"Creature - Human Shaman",G,"avr","200",rare,g,Owned,Non-foil,false,,,"","",44071
@@ -286,7 +282,6 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Weaver of Blossoms",3,"Creature - Human Werewolf",G,"vow","226",common,g,Owned,Non-foil,false,,,"","",94816
 "Briarbridge Patrol",4,"Creature - Human Warrior",G,"soi","195",uncommon,g,Owned,Non-foil,false,,,"","",60144
 "Hiveheart Shaman",4,"Creature - Human Shaman",G,"vow","390",rare,g,Owned,Non-foil,false,,,"","",
-"Howlpack Piper",4,"Creature - Human Werewolf",G,"vow","205",rare,g,Owned,Non-foil,false,,,"","",94766
 "Intrepid Provisioner",4,"Creature - Human Scout",G,"soi","213",common,g,Owned,Non-foil,false,,,"","",60124
 "Sawblade Slinger",4,"Creature - Human Archer",G,"vow","217",uncommon,g,Owned,Non-foil,false,,,"","",94796
 "Soul Swallower",4,"Creature - Wurm",G,"soi","230",rare,g,Owned,Non-foil,false,,,"","",60136
@@ -297,24 +292,24 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Pathbreaker Wurm",6,"Creature - Wurm",G,"avr","188",common,g,Owned,Non-foil,false,,,"","",44019
 "Soul of the Harvest",6,"Creature - Elemental",G,"avr","195",rare,g,Owned,Non-foil,false,,,"","",44107
 "Tovolar's Huntmaster",6,"Creature - Human Werewolf",G,"mid","204",rare,g,Owned,Non-foil,false,,,"","",93402
+"Wolfkin Outcast",6,"Creature - Human Werewolf",G,"vow","229",uncommon,g,Owned,Non-foil,false,,,"","",94824
 "Moldgraf Monstrosity",7,"Creature - Insect",G,"isd","194",rare,g,Owned,Non-foil,false,,,"","",42794
 "Turn the Earth",1,"Instant",G,"mid","205",uncommon,g,Owned,Non-foil,false,,,"","",93406
 "Duel for Dominance",2,"Instant",G,"mid","184",common,g,Owned,Non-foil,false,,,"","",93356
-"Grapple with the Past",2,"Instant",G,"emn","160",common,g,Owned,Non-foil,false,,,"","",61230
 "Return to Nature",2,"Instant",G,"mid","195",common,g,Owned,Non-foil,false,,,"","",93382
 "Witch's Web",2,"Instant",G,"vow","227",common,g,Owned,Non-foil,false,,,"","",94820
 "Might Beyond Reason",4,"Instant",G,"soi","217",common,g,Owned,Non-foil,false,,,"","",59830
 "Prey Upon",1,"Sorcery",G,"isd","200",common,g,Owned,Non-foil,false,,,"","",42304
 "Traverse the Ulvenwald",1,"Sorcery",G,"soi","234",rare,g,Owned,Non-foil,false,,,"","",60332
 "Rabid Bite",2,"Sorcery",G,"soi","223",common,g,Owned,Non-foil,false,,,"","",59950
-"Tapping at the Window",2,"Sorcery",G,"mid","201",common,g,Owned,Non-foil,false,,,"","",93394
 "Dryad's Revival",3,"Sorcery",G,"mid","183",uncommon,g,Owned,Non-foil,false,,,"","",93354
 "Path to the Festival",3,"Sorcery",G,"mid","191",common,g,Owned,Non-foil,false,,,"","",93374
 "Blessings of Nature",5,"Sorcery",G,"avr","168",uncommon,g,Owned,Non-foil,false,,,"","",43943
 "Revenge of the Hunted",6,"Sorcery",G,"avr","191",rare,g,Owned,Non-foil,false,,,"","",44215
-"Rise of the Ants",6,"Sorcery",G,"mid","196",uncommon,g,Owned,Non-foil,false,,,"","",93384
+"Rise of the Ants",6,"Sorcery",G,"mid","196",uncommon,g,Owned,Non-foil,false,,,"cut","",93384
 "Seasons Past",6,"Sorcery",G,"soi","226",mythic,g,Owned,Non-foil,false,,,"","",59856
 "Crop Sigil",1,"Enchantment",G,"emn","153",uncommon,g,Owned,Non-foil,false,,,"","",61464
+"Vessel of Nascency",1,"Enchantment",G,"soi","237",common,g,Owned,Non-foil,false,,,"","",60230
 "Crawling Infestation",3,"Enchantment",G,"vow","193",uncommon,g,Owned,Non-foil,false,,,"","",94738
 "Crawling Sensation",3,"Enchantment",G,"soi","199",uncommon,g,Owned,Non-foil,false,,,"","",60172
 "Descendants' Path",3,"Enchantment",G,"avr","173",rare,g,Owned,Non-foil,false,,,"","",44237
@@ -325,11 +320,11 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Dormant Grove",4,"Enchantment",G,"vow","198",uncommon,g,Owned,Non-foil,false,,,"","",94748
 "Wolfkin Bond",5,"Enchantment - Aura",G,"emn","178",common,g,Owned,Non-foil,false,,,"","",61444
 "Dennick, Pious Apprentice",2,"Legendary Creature - Human Soldier",WU,"mid","217",rare,m,Owned,Non-foil,false,,,"","",93432
-"Dorothea, Vengeful Victim",2,"Legendary Creature - Spirit",WU,"vow","235",rare,m,Owned,Non-foil,false,,,"","",94842
 "Faithful Mending",2,"Instant",UW,"mid","221",uncommon,m,Owned,Non-foil,false,,,"","",93444
-"Hallowed Respite",2,"Sorcery",WU,"mid","227",rare,m,Owned,Non-foil,false,,,"","",93456
 "Soulherder",3,"Creature - Spirit",WU,"h1r","30",uncommon,m,Owned,Non-foil,false,,,"","",
+"Spectral Shepherd",3,"Creature - Spirit",WU,"soi","38",uncommon,m,Owned,Non-foil,false,,,"","",59978
 "Spell Queller",3,"Creature - Spirit",WU,"emn","189",rare,m,Owned,Non-foil,false,,,"","",61480
+"Millicent, Restless Revenant",7,"Legendary Creature - Spirit Soldier",WU,"voc","1",mythic,m,Owned,Non-foil,false,,,"","",
 "Diregraf Captain",3,"Creature - Zombie Soldier",UB,"dka","135",uncommon,m,Owned,Non-foil,false,,,"","",43315
 "Forbidden Alchemy",3,"Instant",UB,"isd","55",common,m,Owned,Non-foil,false,,,"","",42444
 "Prized Amalgam",3,"Creature - Zombie",UB,"soi","249",rare,m,Owned,Non-foil,false,,,"","",60160
@@ -339,13 +334,11 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Bloodtithe Harvester",2,"Creature - Vampire",BR,"vow","310",uncommon,m,Owned,Non-foil,false,,,"","",
 "Vampire Socialite",2,"Creature - Vampire Noble",BR,"mid","249",uncommon,m,Owned,Non-foil,false,,,"","",93506
 "Olivia, Mobilized for War",3,"Legendary Creature - Vampire Knight",BR,"sld","492",mythic,m,Owned,Non-foil,false,,,"","",
-"Stromkirk Captain",3,"Creature - Vampire Soldier",BR,"dka","143",uncommon,m,Owned,Non-foil,false,,,"","",43331
 "Anje, Maid of Dishonor",4,"Legendary Creature - Vampire",BR,"vow","231",rare,m,Owned,Non-foil,false,,,"","",94830
 "Falkenrath Aristocrat",4,"Creature - Vampire Noble",BR,"dka","138",mythic,m,Owned,Non-foil,false,,,"","",43417
 "Olivia, Crimson Bride",6,"Legendary Creature - Vampire Noble",BR,"vow","245",mythic,m,Owned,Non-foil,false,,,"","",94866
 "Kessig Naturalist",2,"Creature - Human Werewolf",GR,"mid","231",uncommon,m,Owned,Non-foil,false,,,"","",93464
 "Unnatural Moonrise",2,"Sorcery",GR,"mid","247",uncommon,m,Owned,Non-foil,false,,,"","",93502
-"Immerwolf",3,"Creature - Wolf",GR,"dka","141",uncommon,m,Owned,Non-foil,false,,,"","",43369
 "Tovolar, Dire Overlord",3,"Legendary Creature - Human Werewolf",RG,"mid","246",rare,m,Owned,Non-foil,false,,,"","",93498
 "Child of the Pack",4,"Creature - Human Werewolf",RG,"vow","234",uncommon,m,Owned,Non-foil,false,,,"","",94838
 "Huntmaster of the Fells",4,"Creature - Human Werewolf",RG,"dka","140",mythic,m,Owned,Non-foil,false,,,"","",43463
@@ -359,25 +352,23 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Cruel Celebrant",2,"Creature - Vampire",WB,"war","188",uncommon,m,Owned,Non-foil,false,,,"","",71982
 "Fleshtaker",2,"Creature - Human Assassin",WB,"mid","222",uncommon,m,Owned,Non-foil,false,,,"","",93446
 "Rite of Oblivion",2,"Sorcery",WB,"mid","237",uncommon,m,Owned,Non-foil,false,,,"","",93480
-"Indulging Patrician",3,"Creature - Vampire Noble",BW,"m21","219",uncommon,m,Owned,Non-foil,false,,,"","",81665
 "Edgar, Charmed Groom",4,"Legendary Creature - Vampire Noble",WB,"vow","311",rare,m,Owned,Non-foil,false,,,"","",
 "Liesa, Forgotten Archangel",5,"Legendary Creature - Angel",WB,"mid","319",rare,m,Owned,Non-foil,false,,,"","",94144
 "Unburial Rites",5,"Sorcery",WB,"isd","122",uncommon,m,Owned,Non-foil,false,,,"","",42482
 "Arcane Infusion",2,"Instant",RU,"mid","210",uncommon,m,Owned,Non-foil,false,,,"","",93416
-"Beacon Bolt",3,"Sorcery",UR,"grn","154",uncommon,m,Owned,Non-foil,false,,,"","",69681
+"Beacon Bolt",3,"Sorcery",UR,"grn","154",uncommon,m,Owned,Foil,false,,,"","",69681
 "Eruth, Tormented Prophet",3,"Legendary Creature - Human Wizard",UR,"vow","237",rare,m,Owned,Non-foil,false,,,"","",94850
 "Fevered Visions",3,"Enchantment",RU,"soi","244",rare,m,Owned,Non-foil,false,,,"","",59764
 "Vadrik, Astral Archmage",3,"Legendary Creature - Human Wizard",UR,"mid","248",rare,m,Owned,Non-foil,false,,,"","",93504
 "Wandering Mind",3,"Creature - Horror",UR,"vow","251",uncommon,m,Owned,Non-foil,false,,,"","",94880
 "Ghoulcaller's Harvest",2,"Sorcery",BG,"mid","225",rare,m,Owned,Non-foil,false,,,"","",93452
-"Old Stickfingers",2,"Legendary Creature - Horror",BG,"mid","321",rare,m,Owned,Non-foil,false,,,"","",94150
 "Old Rutstein",3,"Legendary Creature - Human Peasant",BG,"vow","244",rare,m,Owned,Non-foil,false,,,"","",94864
 "Diregraf Rebirth",5,"Sorcery",BG,"mid","220",uncommon,m,Owned,Non-foil,false,,,"","",93442
 "Ishkanah, Grafwidow",5,"Legendary Creature - Spider",BG,"emn","162",mythic,m,Owned,Non-foil,false,,,"","",61258
-"Spider Spawning",5,"Sorcery",BG,"isd","203",uncommon,m,Owned,Non-foil,false,,,"","",42396
+"Spider Spawning",5,"Sorcery",BG,"isd","203",uncommon,m,Owned,Non-foil,false,,,"cut","",42396
+"The Gitrog Monster",,"Legendary Creature - Frog Horror",,"soi","245",mythic,m,Owned,,false,,,"","",60004
 "Nahiri's Machinations",2,"Enchantment",WR,"soi","28",uncommon,m,Owned,Non-foil,false,,,"","",60254
 "Ride Down",2,"Instant",WR,"emn","188",uncommon,m,Owned,Non-foil,false,,,"","",61474
-"Sacred Fire",2,"Instant",WR,"mid","239",uncommon,m,Owned,Non-foil,false,,,"","",93484
 "Angelfire Ignition",3,"Sorcery",RW,"mid","209",rare,m,Owned,Non-foil,false,,,"","",93414
 "Rem Karolus, Stalwart Slayer",3,"Legendary Creature - Human Knight",WR,"mid","235",rare,m,Owned,Non-foil,false,,,"","",93476
 "Sunrise Cavalier",3,"Creature - Human Knight",RW,"mid","244",uncommon,m,Owned,Non-foil,false,,,"","",93494
@@ -386,66 +377,75 @@ Name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,Status,Finish,May
 "Vilespawn Spider",2,"Creature - Spider",UG,"vow","250",uncommon,m,Owned,Non-foil,false,,,"","",94878
 "Winterthorn Blessing",2,"Sorcery",UG,"mid","251",uncommon,m,Owned,Non-foil,false,,,"","",93510
 "Croaking Counterpart",3,"Sorcery",GU,"mid","215",rare,m,Owned,Non-foil,false,,,"","",93428
-"Quandrix Command",3,"Instant",UG,"stx","217",rare,m,Owned,Non-foil,false,,,"","",88941
-"Altered Ego",4,"Creature - Shapeshifter",GU,"soi","241",rare,m,Owned,Non-foil,false,,,"","",59912
+"Quandrix Command",3,"Instant",UG,"stx","217",rare,m,Owned,Non-foil,false,,,"cut","",88941
 "Grolnok, the Omnivore",4,"Legendary Creature - Frog",GU,"vow","238",rare,m,Owned,Non-foil,false,,,"","",94852
-"Eternal Scourge",3,"Creature - Eldrazi Horror",,"emn","7",rare,c,Owned,Non-foil,false,,,"","",61066
+"Endless One",,"Creature - Eldrazi",,"bfz","8",rare,c,Owned,Non-foil,false,,,"","",58743
 "Foreboding Statue",3,"Artifact Creature - Construct",,"vow","256",uncommon,c,Owned,Non-foil,false,,,"","",94890
-"Wretched Gryff",7,"Creature - Eldrazi Hippogriff",,"emn","12",common,Colorless,Owned,Non-foil,false,,,"","",61110
 "Decimator of the Provinces",10,"Creature - Eldrazi Boar",,"emn","2",mythic,Colorless,Owned,Non-foil,false,,,"","",61456
 "Distended Mindbender",8,"Creature - Eldrazi Insect",,"emn","3",rare,Colorless,Owned,Non-foil,false,,,"","",61384
 "Elder Deep-Fiend",8,"Creature - Eldrazi Octopus",,"emn","5",rare,Colorless,Owned,Non-foil,false,,,"","",61326
 "Emrakul, the Promised End",13,"Legendary Creature - Eldrazi",,"emn","6",mythic,c,Owned,Non-foil,false,,,"","",61068
-"Lashweed Lurker",8,"Creature - Eldrazi Horror",,"emn","9",uncommon,Colorless,Owned,Non-foil,false,,,"","",61468
-"Vexing Scuttler",8,"Creature - Eldrazi Crab",,"emn","11",uncommon,Colorless,Owned,Non-foil,false,,,"","",61358
+"Hand of Emrakul",9,"Creature - Eldrazi",,"roe","5",common,c,Owned,Non-foil,false,,,"","",36612
+"Void Winnower",9,"Creature - Eldrazi",,"bfz","17",mythic,c,Owned,Non-foil,false,,,"","",58631
 "Ceremonial Knife",1,"Artifact - Equipment",,"vow","254",common,c,Owned,Non-foil,false,,,"","",94886
-"Cryptolith Fragment",3,"Artifact",,"emn","193",uncommon,c,Owned,Non-foil,false,,,"","",61484
-"Honored Heirloom",3,"Artifact",,"vow","257",common,c,Owned,Non-foil,false,,,"","",94894
+"Glass-Cast Heart",3,"Artifact",B,"voc","18",rare,Colorless,Owned,Non-foil,false,,,"","",
 "The Celestus",3,"Legendary Artifact",,"mid","252",rare,c,Owned,Non-foil,false,,,"","",93512
+"Grimoire of the Dead",4,"Legendary Artifact",,"isd","226",mythic,c,Owned,Non-foil,false,,,"","",42564
 "Conjurer's Closet",5,"Artifact",,"avr","214",rare,c,Owned,Non-foil,false,,,"","",43927
 "Dollhouse of Horrors",5,"Artifact",,"vow","395",rare,c,Owned,Non-foil,false,,,"","",
-"Deserted Beach",0,"Land",WU,"mid","260",rare,l,Owned,Foil,false,,,"","",93530
-"Port Town",0,"Land",WU,"soi","278",rare,l,Owned,Non-foil,false,,,"","",59926
-"Temple of Enlightenment",0,"Land",WU,"voc","185",rare,l,Owned,Non-foil,false,,,"","",
-"Tranquil Cove",0,"Land",WU,"ktk","246",common,l,Owned,Non-foil,false,,,"","",54464
-"Choked Estuary",0,"Land",UB,"soi","270",rare,l,Owned,Non-foil,false,,,"","",59920
-"Dismal Backwater",0,"Land",UB,"ktk","232",common,l,Owned,Non-foil,false,,,"","",54466
-"Shipwreck Marsh",0,"Land",UB,"mid","267",rare,l,Owned,Non-foil,false,,,"","",93546
-"Temple of Deceit",0,"Land",UB,"mic","184",rare,l,Owned,Non-foil,false,,,"","",93784
-"Bloodfell Caves",0,"Land",BR,"ktk","229",common,l,Owned,Non-foil,false,,,"","",54468
-"Foreboding Ruins",0,"Land",BR,"soi","272",rare,l,Owned,Non-foil,false,,,"","",60080
-"Haunted Ridge",0,"Land",BR,"mid","263",rare,l,Owned,Non-foil,false,,,"","",93536
-"Temple of Malice",0,"Land",BR,"bng","164",rare,l,Owned,Non-foil,false,,,"","",51563
-"Game Trail",0,"Land",GR,"soi","276",rare,l,Owned,Non-foil,false,,,"","",59894
-"Rockfall Vale",0,"Land",RG,"mid","266",rare,l,Owned,Foil,false,,,"","",93544
-"Rugged Highlands",0,"Land",GR,"ktk","240",common,l,Owned,Non-foil,false,,,"","",54470
-"Temple of Abandon",0,"Land",RG,"thb","244",rare,l,Owned,Non-foil,false,,,"","",79612
-"Blossoming Sands",0,"Land",WG,"ktk","231",common,l,Owned,Non-foil,false,,,"","",54472
-"Fortified Village",0,"Land",GW,"soi","274",rare,l,Owned,Non-foil,false,,,"","",59842
-"Overgrown Farmland",0,"Land",WG,"mid","283",rare,l,Owned,Non-foil,false,,,"","",
-"Temple of Plenty",0,"Land",GW,"thb","248",rare,l,Owned,Non-foil,false,,,"","",79620
-"Scoured Barrens",0,"Land",WB,"ktk","242",common,l,Owned,Non-foil,false,,,"","",54070
-"Shattered Sanctum",0,"Land",WB,"vow","264",rare,l,Owned,Non-foil,false,,,"","",94908
-"Shineshadow Snarl",0,"Land",BW,"stx","272",rare,l,Owned,Non-foil,false,,,"","",89051
-"Temple of Silence",0,"Land",WB,"m21","390",rare,l,Owned,Non-foil,false,,,"","",
-"Frostboil Snarl",0,"Land",RU,"stx","265",rare,l,Owned,Non-foil,false,,,"","",89037
-"Stormcarved Coast",0,"Land",UR,"dbl","532",rare,l,Owned,Non-foil,false,,,"","",96192
-"Swiftwater Cliffs",0,"Land",UR,"ktk","243",common,l,Owned,Non-foil,false,,,"","",54076
-"Temple of Epiphany",0,"Land",UR,"m21","252",rare,l,Owned,Non-foil,false,,,"","",81731
-"Deathcap Glade",0,"Land",BG,"vow","261",rare,l,Owned,Non-foil,false,,,"","",94902
-"Jungle Hollow",0,"Land",BG,"ktk","235",common,l,Owned,Non-foil,false,,,"","",54072
-"Necroblossom Snarl",0,"Land",BG,"stx","269",rare,l,Owned,Non-foil,false,,,"","",89045
-"Temple of Malady",0,"Land",BG,"m21","253",rare,l,Owned,Non-foil,false,,,"","",81733
-"Furycalm Snarl",0,"Land",RW,"stx","266",rare,l,Owned,Non-foil,false,,,"","",89039
-"Sundown Pass",0,"Land",WR,"vow","266",rare,l,Owned,Non-foil,false,,,"","",94912
-"Temple of Triumph",0,"Land",RW,"m21","256",rare,l,Owned,Non-foil,false,,,"","",81739
-"Wind-Scarred Crag",0,"Land",WR,"ktk","247",common,l,Owned,Non-foil,false,,,"","",54078
-"Dreamroot Cascade",0,"Land",UG,"vow","262",rare,l,Owned,Non-foil,false,,,"","",94904
-"Temple of Mystery",0,"Land",UG,"cp1","6",rare,l,Owned,Non-foil,false,,,"","",
-"Thornwood Falls",0,"Land",UG,"ktk","244",common,l,Owned,Non-foil,false,,,"","",54074
-"Vineglimmer Snarl",0,"Land",GU,"stx","274",rare,l,Owned,Non-foil,false,,,"","",89055
-"Desolate Lighthouse",0,"Land",,"avr","227",rare,Lands,Owned,Non-foil,false,,,"","",43807
-"Evolving Wilds",0,"Land",,"vow","263",common,l,Owned,Non-foil,false,,,"","",94906
-"Gavony Township",0,"Land",,"isd","239",rare,Lands,Owned,Non-foil,false,,,"","",42572
-"Hostile Hostel",0,"Land",,"mid","264",mythic,l,Owned,Non-foil,false,,,"","",93538
-"Kessig Wolf Run",0,"Land",,"isd","243",rare,Lands,Owned,Non-foil,false,,,"","",42586
+"Deserted Beach",,"Land",WU,"mid","260",rare,l,Owned,Foil,false,,,"","",93530
+"Hengegate Pathway",,"Land",WU,"khm","293",rare,l,Owned,Non-foil,false,,,"","",
+"Port Town",,"Land",WU,"soi","278",rare,l,Owned,Non-foil,false,,,"","",59926
+"Temple of Enlightenment",,"Land",WU,"bng","163",rare,l,Owned,Non-foil,false,,,"","",51561
+"Tranquil Cove",,"Land",WU,"ktk","246",common,l,Owned,Non-foil,false,,,"","",54464
+"Choked Estuary",,"Land",UB,"soi","270",rare,l,Owned,Non-foil,false,,,"","",59920
+"Clearwater Pathway",,"Land",UB,"znr","286",rare,l,Owned,Non-foil,false,,,"","",
+"Dismal Backwater",,"Land",UB,"ktk","232",common,l,Owned,Non-foil,false,,,"","",54466
+"Shipwreck Marsh",,"Land",UB,"mid","267",rare,l,Owned,Non-foil,false,,,"","",93546
+"Temple of Deceit",,"Land",UB,"mic","184",rare,l,Owned,Non-foil,false,,,"","",93784
+"Blightstep Pathway",,"Land",BR,"khm","291",rare,l,Owned,Non-foil,false,,,"","",
+"Bloodfell Caves",,"Land",BR,"ktk","229",common,l,Owned,Non-foil,false,,,"","",54468
+"Foreboding Ruins",,"Land",BR,"soi","272",rare,l,Owned,Non-foil,false,,,"","",60080
+"Haunted Ridge",,"Land",BR,"mid","263",rare,l,Owned,Non-foil,false,,,"","",93536
+"Temple of Malice",,"Land",BR,"bng","164",rare,l,Owned,Non-foil,false,,,"","",51563
+"Cragcrown Pathway",,"Land",RG,"znr","287",rare,l,Owned,Non-foil,false,,,"","",
+"Game Trail",,"Land",GR,"soi","276",rare,l,Owned,Non-foil,false,,,"","",59894
+"Rockfall Vale",,"Land",RG,"mid","266",rare,l,Owned,Foil,false,,,"","",93544
+"Rugged Highlands",,"Land",GR,"ktk","240",common,l,Owned,Non-foil,false,,,"","",54470
+"Temple of Abandon",,"Land",RG,"thb","244",rare,l,Owned,Non-foil,false,,,"","",79612
+"Blossoming Sands",,"Land",WG,"ktk","231",common,l,Owned,Non-foil,false,,,"","",54472
+"Branchloft Pathway",,"Land",WG,"znr","284",rare,l,Owned,Non-foil,false,,,"","",
+"Fortified Village",,"Land",GW,"soi","274",rare,l,Owned,Non-foil,false,,,"","",59842
+"Overgrown Farmland",,"Land",WG,"mid","283",rare,l,Owned,Non-foil,false,,,"","",
+"Temple of Plenty",,"Land",GW,"thb","248",rare,l,Owned,Non-foil,false,,,"","",79620
+"Brightclimb Pathway",,"Land",WB,"znr","285",rare,l,Owned,Non-foil,false,,,"","",
+"Scoured Barrens",,"Land",WB,"ktk","242",common,l,Owned,Non-foil,false,,,"","",54070
+"Shattered Sanctum",,"Land",WB,"vow","264",rare,l,Owned,Non-foil,false,,,"","",94908
+"Shineshadow Snarl",,"Land",BW,"stx","272",rare,l,Owned,Non-foil,false,,,"","",89051
+"Temple of Silence",,"Land",WB,"m21","390",rare,l,Owned,Non-foil,false,,,"","",
+"Frostboil Snarl",,"Land",RU,"stx","265",rare,l,Owned,Non-foil,false,,,"","",89037
+"Riverglide Pathway",,"Land",UR,"znr","289",rare,l,Owned,Non-foil,false,,,"","",
+"Stormcarved Coast",,"Land",UR,"dbl","532",rare,l,Owned,Non-foil,false,,,"","",96192
+"Swiftwater Cliffs",,"Land",UR,"ktk","243",common,l,Owned,Non-foil,false,,,"","",54076
+"Temple of Epiphany",,"Land",UR,"m21","252",rare,l,Owned,Non-foil,false,,,"","",81731
+"Darkbore Pathway",,"Land",BG,"khm","292",rare,l,Owned,Non-foil,false,,,"","",
+"Deathcap Glade",,"Land",BG,"vow","261",rare,l,Owned,Non-foil,false,,,"","",94902
+"Jungle Hollow",,"Land",BG,"ktk","235",common,l,Owned,Non-foil,false,,,"","",54072
+"Necroblossom Snarl",,"Land",BG,"stx","269",rare,l,Owned,Non-foil,false,,,"","",89045
+"Temple of Malady",,"Land",BG,"jou","165",rare,l,Owned,Non-foil,false,,,"","",51968
+"Furycalm Snarl",,"Land",RW,"stx","266",rare,l,Owned,Non-foil,false,,,"","",89039
+"Needleverge Pathway",,"Land",WR,"znr","288",rare,l,Owned,Non-foil,false,,,"","",
+"Sundown Pass",,"Land",WR,"vow","266",rare,l,Owned,Non-foil,false,,,"","",94912
+"Temple of Triumph",,"Land",RW,"m21","256",rare,l,Owned,Non-foil,false,,,"","",81739
+"Wind-Scarred Crag",,"Land",WR,"ktk","247",common,l,Owned,Non-foil,false,,,"","",54078
+"Barkchannel Pathway",,"Land",UG,"khm","290",rare,l,Owned,Non-foil,false,,,"","",
+"Dreamroot Cascade",,"Land",UG,"vow","262",rare,l,Owned,Non-foil,false,,,"","",94904
+"Temple of Mystery",,"Land",UG,"cp1","6",rare,l,Owned,Non-foil,false,,,"","",
+"Thornwood Falls",,"Land",UG,"ktk","244",common,l,Owned,Non-foil,false,,,"","",54074
+"Vineglimmer Snarl",,"Land",GU,"stx","274",rare,l,Owned,Non-foil,false,,,"","",89055
+"Desolate Lighthouse",,"Land",,"avr","227",rare,Lands,Owned,Non-foil,false,,,"","",43807
+"Evolving Wilds",,"Land",,"vow","263",common,l,Owned,Non-foil,false,,,"","",94906
+"Gavony Township",,"Land",,"isd","239",rare,Lands,Owned,Non-foil,false,,,"","",42572
+"Kessig Wolf Run",,"Land",,"isd","243",rare,Lands,Owned,Non-foil,false,,,"","",42586
+"Terramorphic Expanse",,"Land",,"cmr","357",common,l,Owned,Non-foil,false,,,"","",85496
+"Voldaren Estate",,"Land",,"vow","267",rare,l,Owned,Non-foil,false,,,"","",94914
